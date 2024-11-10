@@ -1,4 +1,4 @@
-# kafka-zookeeper-container-deploy
+# kafka-zookeeper-compose
 
 This repository provides a simple way to deploy Kafka and Zookeeper using Docker Compose. Follow the steps below to set up and deploy the containerized environment.
 
